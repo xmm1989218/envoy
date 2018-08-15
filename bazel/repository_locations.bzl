@@ -58,7 +58,7 @@ REPOSITORY_LOCATIONS = dict(
         urls = ["https://github.com/nanopb/nanopb/archive/f8ac463766281625ad710900479130c7fcb4d63b.tar.gz"],
     ),
     io_opentracing_cpp = dict(
-        commit = "3b36b084a4d7fffc196eac83203cf24dfb8696b3",  # v1.4.2
+        commit = "ac50154a7713877f877981c33c3375003b6ebfe1",  # v1.5.0
         remote = "https://github.com/opentracing/opentracing-cpp",
     ),
     com_lightstep_tracer_cpp = dict(
